@@ -1,0 +1,19 @@
+{
+  "wheel_id": 348,
+  "structure": "umbrella",
+  "slug": "financebrokerbrisbane-com-106",
+  "project": "home-loan-brokers-brisbane-costs-b7b177bfea3419ed40a6ac6a843337",
+  "parent_t1_ref": "financebrokerbrisbane-com-152",
+  "node_role": "feeder",
+  "money_target": "financebrokerbrisbane.com.au",
+  "primary_kw": "home loan brokers brisbane costs",
+  "intended_url": "https://aumedia.neocities.org/home-loan-brokers-brisbane-costs-b7b177bfea3419ed40a6ac6a843337/",
+  "writeback_nonce": "6949047a331776e6",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/financebrokerbrisbane-com-152/",
+      "anchor": "home loan brokers brisbane",
+      "rel": "follow"
+    }
+  ]
+}
